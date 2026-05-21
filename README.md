@@ -1,5 +1,4 @@
-# Backend Krithika
-
+# Backend API Server
 REST API Backend built using Node.js, Express.js, MongoDB, Mongoose, Postman, and Render deployment.
 
 ---
